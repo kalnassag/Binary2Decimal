@@ -1,0 +1,14 @@
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/obj/Debug/net8.0/B2D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/obj/Debug/net8.0/B2D.AssemblyInfoInputs.cache
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/obj/Debug/net8.0/B2D.AssemblyInfo.cs
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/obj/Debug/net8.0/B2D.csproj.CoreCompileInputs.cache
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/bin/Debug/net8.0/B2D
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/bin/Debug/net8.0/B2D.deps.json
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/bin/Debug/net8.0/B2D.runtimeconfig.json
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/bin/Debug/net8.0/B2D.dll
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/bin/Debug/net8.0/B2D.pdb
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/obj/Debug/net8.0/B2D.dll
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/obj/Debug/net8.0/refint/B2D.dll
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/obj/Debug/net8.0/B2D.pdb
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/obj/Debug/net8.0/B2D.genruntimeconfig.cache
+/Users/kareemalnassag/Projects/Binary2Decimal/B2D/obj/Debug/net8.0/ref/B2D.dll
